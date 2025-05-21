@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @122334567
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+---
+title: 个人主页
+---
 
-<!---
-122334567/122334567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 你好，我是小李小李快乐不已
+
+🎓 硕士研究方向：无人船、无人机、水下机器人跨域协同与路径规划  
+💻 擅长方向：linux，C/C++，控制算法、路径规划、仿真可视化
+
+## 📌 导航入口
+
+- [📝 技术博客](./blog.md)
+- [🚀 开源项目](./projects.md)
+- [📚 面试八股](./interview.md)
+- [🧠 刷题记录](./leetcode.md)
+- [🔬 科研方向](./research.md)
+- [💰 上线收费项目](./paid/)
+
